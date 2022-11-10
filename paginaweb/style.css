@@ -1,0 +1,37 @@
+    body {
+        background-image: url(../paginaweb/imagen/fondo-arco-iris-degradado_1159-31590.jpg);
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+        
+    }
+    a:link(enlace no visitado) {
+        color:brown;
+        }
+
+    #body2 {
+        background-image: url(imagen/marron-beige-crema-claro-lujo-abstracto-como-fondo-modelo-textura-seda-algodon_1258-71591.jpg);
+        
+    }
+
+    h1 {
+        color: red;
+        background-color: black;
+        text-align: center;
+        margin: 1px;
+    }
+    #body3 {
+        background-image: url(../../TrabajoPagina/paginaweb/imagen/texture-1647380_960_720.jpg);
+    }
+    #body4 {
+        background-image: url(../paginaweb/imagen/gradient-1761190_960_720.jpg);
+    }
+    #body5 {
+        background-image: url(../paginaweb/imagen/3409bb12ed05f0a8bf17832180d976c1.jpg);
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+       
+    }

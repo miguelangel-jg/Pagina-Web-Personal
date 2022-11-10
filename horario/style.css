@@ -1,0 +1,98 @@
+body {
+    background-image: url(imagenes/depositphotos_261292410-stock-illustration-green-pastel-colors-flat-rectangle.jpg);
+}
+.center {
+    text-align: center;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:crimson
+}
+a:link{
+    color:navajowhite;
+}
+a:visited {
+    color:black;
+}
+a:hover{
+    color: yellow;
+}
+a:active{
+    color: springgreen;
+}
+
+table th {
+    border-collapse: collapse;
+    width: 10em;
+}
+#caption{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    
+    
+}
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+#recreo{
+    text-align: center;
+    background-color:darkgrey
+}
+.segin{
+    background-color: green;
+    color: azure;
+    text-align: center;
+}
+#noborde {
+    border: none;
+}
+.ingle {
+    background-color: red;
+    color: azure;
+    text-align: center;
+}
+.sor{
+    background-color:rgb(104, 25, 136);
+    color: azure;
+    text-align: center;
+}
+.serv{
+    background-color: blue;
+    color: azure;
+    text-align: center;
+}
+.apl{
+    background-color:rgb(134, 167, 14);
+    color: azure;
+    text-align: center;
+}
+.emp{
+    background-color: saddlebrown;
+    color: azure;
+    text-align: center;
+}
+.jav{
+    background-color: rgb(12, 158, 85);
+    color: azure;
+    text-align: center;
+}
+tr:nth-of-type(1) > th {
+    background-color:darkgrey;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+tr:nth-of-type(2) > th,
+tr:nth-of-type(3) > th,
+tr:nth-of-type(4) > th,
+tr:nth-of-type(5) > th,
+tr:nth-of-type(6) > th,
+tr:nth-of-type(7) > th,
+tr:nth-of-type(8) > th {
+    background-color: darkgrey;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+
+        
